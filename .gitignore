@@ -1,0 +1,26 @@
+# Eclipse / STS workspace metadata
+.metadata/
+**/.metadata/
+
+# Dependencies
+**/node_modules/
+**/dist/
+
+# Java & Spring Boot build files
+**/target/
+*.class
+*.jar
+*.war
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
