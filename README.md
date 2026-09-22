@@ -180,6 +180,38 @@ Database persistence
 Error handling
 Frontend-backend integration
 ---
+## 📸 Project Screenshots
+
+### Library Management System
+
+#### Dashboard
+![Library Dashboard](screenshots/library-dashboard.png)
+
+#### Members
+![Library Members](screenshots/library-members.png)
+
+#### Books
+![Library Books](screenshots/library-books.png)
+
+#### Circulation
+![Library Circulation](screenshots/library-circulation.png)
+
+---
+
+### Online Quiz Application
+
+#### Home
+![Quiz Home](screenshots/quiz-home.png)
+
+#### Quiz Selection
+![Quiz Selection](screenshots/quiz-selection.png)
+
+#### Quiz
+![Quiz Question](screenshots/quiz-question.png)
+
+#### Results
+![Quiz Result](screenshots/quiz-result.png)
+
 📌 Learning Outcomes
 Through these projects, I gained practical experience with:
 Object-Oriented Programming in Java
